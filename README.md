@@ -1,0 +1,1 @@
+This is a first attempt at a mechanistic mathematical compartmental model of the life-cycle of anophilene mosquitos.  It is written in Rust language and and draws heavily on the methodology detailed in another github repo named jam_two_pool_russell_zometa.  If interested contact me.
